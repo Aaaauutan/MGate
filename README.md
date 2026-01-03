@@ -27,7 +27,7 @@ func main() {
     gate.Magic().Magic().Magic()
 
     // HTTP Load Balancer
-    gate.AddHTTPGate(":80", "[http://127.0.0.1:3000](http://127.0.0.1:3000)", "[http://127.0.0.1:3001](http://127.0.0.1:3001)")
+    gate.AddHTTPGate(":80", "http://127.0.0.1:3000", "http://127.0.0.1:3001")
 
     // TCP Tunnel (MySQL/SSH)
     gate.AddTunnel(":3306", "127.0.0.1:3307")
