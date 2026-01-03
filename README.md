@@ -11,13 +11,13 @@ A high-performance, multi-protocol networking gateway written in Go. Designed fo
 
 ## Installation
 ```bash
-go get github.com/aaaauutan/mgate
+go get github.com/meowtux/mgate
 ```
 Quick Start
 ```go
 package main
 
-import "github.com/aaaauutan/mgate"
+import "github.com/meowtux/mgate"
 
 func main() {
     // Ignite engine
@@ -42,4 +42,4 @@ Optimization Specs
 
 ## MIT License. Built for performance.
 
-- this was made by : Moly (Aaaauutan)
+- this was made by : MeowTux
