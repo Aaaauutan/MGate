@@ -1,4 +1,4 @@
-module github.com/aaaauutan/mgate
+module github.com/meowtux/mgate
 
 go 1.21
 
