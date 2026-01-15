@@ -29,7 +29,7 @@ const (
   / /|_/ / / / __/ __ '/ __/ _ \
  / /  / / / /_/ / /_/ / /_/  __/
 /_/  /_/  \____/\__,_/\__/\___/ v1.0
-        • made by : Moly
+        • made by : MeowTux
 	`
 	ColorCyan  = "\033[36m"
 	ColorMagic = "\033[35m" // Magenta for Magic
